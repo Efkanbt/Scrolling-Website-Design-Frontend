@@ -1,4 +1,4 @@
---Preview--
+--Preview--<br>
 First
 ![1](https://github.com/Efkanbt/Scrolling-Website-Design-Frontend/assets/95717776/a56ce7fe-59d2-416c-86b7-28dd5663fe1b)
 Second
